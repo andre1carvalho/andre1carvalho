@@ -1,11 +1,10 @@
 # Olá, eu sou o André Carvalho! 👋
 
 ### 🚀 Sobre Mim
-- 🎓 Atualmente focado em **Node.js**, **React** e **Ruby**.
+- 🎓 Atualmente focado em **QA**.
 - 🛡️ Especialista em **QA & Automação de Testes** (Cypress, Selenium e Playwright).
-- ⚙️ Unindo a visão de qualidade ao desenvolvimento com **C#** e **TypeScript**.
+- ⚙️ Unindo a visão de qualidade ao desenvolvimento com **C#**
 - 🌱 Sempre em busca de novos desafios e automação de processos para melhorar a UX.
-- 😄 Pronomes: ele/dele
 
 ---
 
