@@ -15,8 +15,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,ts,js,ruby,cs)](https://skillicons.dev)
 
-<br />
+
 **Qualidade & Automação (QA)**
+
 <div style="display: inline_block">
   <img src="https://skillicons.dev/icons?i=cypress,selenium">
   <img align="top" alt="Playwright" height="80" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png">
