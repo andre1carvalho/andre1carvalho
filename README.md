@@ -1,8 +1,9 @@
 # Olá, eu sou o André Carvalho! 👋
 
 ### 🚀 Sobre Mim
-- 🎓 Atualmente tenho conhecimentos com **NodeJS** e **React**.
+- 🎓 Atualmente tenho conhecimentos com **C#** , **Node.js**.
 - 🛠️ Experiência com **E2E Testing**, focado em garantir a qualidade de software.
+- 🤖 Especialista em QA focado em automação de testes (Cypress/Playwright), unindo a visão de qualidade ao desenvolvimento com C#.
 - 🌱 Sempre em busca de novos desafios e automação de processos.
 - 😄 Pronomes: ele/dele
 
