@@ -1,7 +1,7 @@
 # Olá, eu sou o André Carvalho! 👋
 
 ### 🚀 Sobre Mim
-- 🎓 Atualmente tenho conhecimentos com **C#** , **Node.js**.
+- 🎓 Atualmente tenho conhecimentos com **Selenium** , **Cypress** , **C#** e **Node.js**.
 - 🛠️ Experiência com **E2E Testing**, focado em garantir a qualidade de software.
 - 🤖 Especialista em QA focado em automação de testes (Cypress/Playwright), unindo a visão de qualidade ao desenvolvimento com C#.
 - 🌱 Sempre em busca de novos desafios e automação de processos.
@@ -9,14 +9,20 @@
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-
+**Desenvolvimento & Linguagens**
 <div style="display: inline_block">
   <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
+**Qualidade & Automação (QA)**
+<div style="display: inline_block">
+  <img align="center" alt="Cypress" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg">
+  <img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
 </div>
 
 ---
