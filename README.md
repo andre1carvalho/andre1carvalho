@@ -36,7 +36,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andre1carvalho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andre1carvalho&layout=compact&langs_count=7&theme=algolia"/>
-  <img align="center" alt="Playwright" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png">
 </p>
 
 ### 🐍 My Contributions Snake
